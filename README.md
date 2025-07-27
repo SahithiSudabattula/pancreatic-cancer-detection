@@ -18,7 +18,7 @@ A deep learning model developed in MATLAB that classifies pancreatic cancer usin
 - Result screenshots and graphs
 
 ## 👩‍💻 Author
-[Sahithi Sudabattula](https://github.com/SahithiSudabattula)
+[Sahithi Sudabattula](https://www.linkedin.com/in/sahithisudabattula/))
 
 # pancreatic-cancer-detection
 ## 📦 Large Files
